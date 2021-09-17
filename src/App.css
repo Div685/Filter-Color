@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.color-box {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  margin: 10px auto;
+  background: #f0f0f08c;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+input {
+  padding: 10px;
+  width: 200px;
+  border-radius: 12px;
+  outline-style: none;
+}
+
+.heatmap {
+  background-color: #d3d3d3;
+  padding: 30px; 
+  margin: 10px; 
+  box-shadow: #9ca0a073 0px 0px 2px 4px;
+}
+
+h1{
+  padding: 20px;
+}
