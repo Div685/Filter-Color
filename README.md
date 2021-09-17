@@ -1,4 +1,7 @@
+![Linter workflow](https://github.com/Div685/Filter-Color/actions/workflows/linters.yml/badge.svg)
 # Filter Colors
+
+![Screenshot](./screencapture.png)
 
 ## Built With
 
